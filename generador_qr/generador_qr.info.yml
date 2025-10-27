@@ -1,5 +1,0 @@
-name: Generador QR de Mediateca INAH
-description: Genera QR para la mediateca del INAH
-type: module
-core_version_requirement: ^10
-package: Custom

@@ -1,6 +1,0 @@
-services:
-  generador_qr.generador_qr_service:
-    class: Drupal\generador_qr\GeneradorQrService
-    # Cambiamos 'arguments' para inyectar el 'request_stack'
-    arguments: ['@request_stack']
-
